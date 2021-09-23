@@ -1,9 +1,4 @@
-/*--
-Author: W3layouts
-uthor URL: http://w3layouts.com
-license: Creative Commons Attribution 3.0 Unported
 
---*/
 
 html,
 body {
@@ -153,7 +148,7 @@ header {
 	font-size: 3em;
 	letter-spacing: 8px;
 	font-weight: 500;
-	color: #eeeaea (10, 10, 10);
+	color:  #47cf73;
 	position: relative;
 	margin: 0.2em 0 0.6em;
 }
